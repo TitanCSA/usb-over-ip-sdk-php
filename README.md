@@ -1,5 +1,11 @@
 # USB-over-IP-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use USB-over-IP-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/usb-over-ip-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
